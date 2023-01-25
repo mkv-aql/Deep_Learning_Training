@@ -1,0 +1,8 @@
+x1, x2, x3 as an input
+with hidden layers h1, h2, h3 and output layer y1, y2, y3. The weights are the strength of directing the nodes from one layer to another.
+And finally they are sum up and also an activation function (eg. "sigmoid activation function") to get the output.
+The output will be anything we want, example: "Cat" or "Dog".
+
+install tensorflow:
+pip install tensorflow
+pip install --upgrade tensorflow
